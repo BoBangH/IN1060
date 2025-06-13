@@ -1,2 +1,1 @@
-"# IN1060" 
-"# IN1060" 
+I dette repoet ligger koden for begge prototypene:)
